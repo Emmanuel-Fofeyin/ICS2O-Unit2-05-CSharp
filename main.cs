@@ -30,7 +30,7 @@ class Program
         //output
         Console.WriteLine("");
         Console.WriteLine("your pay will be: $" + pay.ToString("0.00") + ".");
-        Console.WriteLine("The gevernment will take: $" + taxes.ToString("0.00") + ".");
+        Console.WriteLine("The government will take: $" + taxes.ToString("0.00") + ".");
 
         Console.WriteLine("\nDone.");
     }
